@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kalter-winterwind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Kalter Winterwind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalter-winterwind/) |
+| **Get License** | [Official Music Licensing for Kalter Winterwind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalter-winterwind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6a566912765c0bfc53f80d59613f9f4ba2faa625c5453dc24dd19e0fa0e86c87` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
