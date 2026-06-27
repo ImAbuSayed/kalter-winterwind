@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kalter-winterwind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Kalter Winterwind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalter-winterwind/) |
+| **Get License** | [License this song: Kalter Winterwind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kalter-winterwind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kalter Winterwind, doch mit dir brennt die Stadt
+> Wir fahr'n im AMG, bis die Welt uns vergessen hat
+> Deine Blicke machen süchtig, helles Neonlicht
+> Ich will nur dich heute Nacht, Baby, all eyes on us, ich seh' nur dich
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
